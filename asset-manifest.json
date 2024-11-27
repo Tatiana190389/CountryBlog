@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e13549e.css",
-    "main.js": "/static/js/main.f2f92615.js",
-    "static/media/Barcelona.png": "/static/media/Barcelona.d8a1f4e9c9a9d87fbd6e.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/like.svg": "/static/media/like.ae4c43e8788b4c4c1d05bc0a6d8f75fb.svg",
-    "index.html": "/index.html",
-    "static/media/Icon — Send.svg": "/static/media/Icon — Send.d6f4972265ea1f302d792bfdf434e1be.svg",
-    "static/media/Icon — flag.svg": "/static/media/Icon — flag.db9a18d79fe0979f5820e01704421044.svg",
-    "main.0e13549e.css.map": "/static/css/main.0e13549e.css.map",
-    "main.f2f92615.js.map": "/static/js/main.f2f92615.js.map"
+    "main.css": "/CountryBlog/static/css/main.bb7b459b.css",
+    "main.js": "/CountryBlog/static/js/main.62dc4369.js",
+    "static/media/Barcelona.png": "/CountryBlog/static/media/Barcelona.d8a1f4e9c9a9d87fbd6e.png",
+    "static/media/slick.svg": "/CountryBlog/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/CountryBlog/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/CountryBlog/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/CountryBlog/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/like.svg": "/CountryBlog/static/media/like.ae4c43e8788b4c4c1d05bc0a6d8f75fb.svg",
+    "index.html": "/CountryBlog/index.html",
+    "static/media/Icon — Send.svg": "/CountryBlog/static/media/Icon — Send.d6f4972265ea1f302d792bfdf434e1be.svg",
+    "static/media/Icon — flag.svg": "/CountryBlog/static/media/Icon — flag.db9a18d79fe0979f5820e01704421044.svg",
+    "main.bb7b459b.css.map": "/CountryBlog/static/css/main.bb7b459b.css.map",
+    "main.62dc4369.js.map": "/CountryBlog/static/js/main.62dc4369.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e13549e.css",
-    "static/js/main.f2f92615.js"
+    "static/css/main.bb7b459b.css",
+    "static/js/main.62dc4369.js"
   ]
 }
