@@ -1,0 +1,73 @@
+.feedback__block {
+  background-color: rgba(249, 247, 242, 1);
+  padding: 26px 9px 23px 19px;
+  min-width: 300px;
+}
+
+.block__header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 28px;
+}
+.city__name {
+  color: rgba(252, 79, 30, 1);
+  letter-spacing: 0.46px;
+}
+h5 {
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.user__feedback {
+  height: 177px;
+  margin-bottom: 8px;
+}
+.feedback__text {
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.7;
+  font-size: 15px;
+}
+.block__footer {
+  display: flex;
+  align-items: center;
+  font-size: 11px;
+  color: rgba(157, 157, 157, 1);
+}
+
+.like {
+  display: flex;
+  gap: 5px;
+  margin-left: 20px;
+}
+.like__count {
+  font-size: 11px;
+  color: rgba(157, 157, 157, 1);
+}
+.like__button {
+  background: none;
+  cursor: pointer;
+}
+.user__photoGallery {
+  margin-bottom: 26px;
+  list-style: none;
+  display: flex;
+  gap: 5px;
+  position: relative;
+}
+.date::after {
+  content: '\2022';
+  margin-left: 11px;
+  margin-right: 5px;
+}
+
+.count__photo {
+  position: absolute;
+  background-color: rgba(16, 16, 16, 0.4);
+  padding: 16px 15px 9px 15px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 17px;
+  right: 13px;
+}

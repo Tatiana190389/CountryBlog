@@ -1,0 +1,21 @@
+.feedbacks {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 35px 31px 33px 29px;
+}
+h4 {
+  font-size: 29px;
+  margin-bottom: 21px;
+}
+.feedbacks__group {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  overflow: hidden;
+}
+.feedbacks__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}

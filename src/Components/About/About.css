@@ -1,0 +1,26 @@
+.about {
+  background-color: white;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  max-height: 440px;
+}
+.content {
+  padding-top: 104px;
+  padding-left: 29px;
+}
+.title {
+  font-size: 29px;
+}
+.text {
+  color: rgba(0, 0, 0, 1);
+  font-size: 17px;
+  margin-top: 19px;
+  padding-right: 47px;
+}
+.about__more {
+  color: black;
+  font-size: 17px;
+  border-bottom: rgba(255, 70, 65, 1) 3px solid;
+  text-decoration: none;
+  margin-bottom: 2px;
+}

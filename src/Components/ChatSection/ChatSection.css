@@ -1,0 +1,6 @@
+.chat__section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 49px;
+  margin-top: 50px;
+}

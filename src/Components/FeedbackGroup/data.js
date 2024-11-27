@@ -1,0 +1,110 @@
+import Avatar from '../../images/avatar.png';
+import First from '../../images/user__photo/1.png';
+import Second from '../../images/user__photo/2.png';
+import Third from '../../images/user__photo/3.png';
+
+export const feedbacksData = [
+  {
+    id: 1,
+    name: 'Наталия Полянская',
+    avatar: Avatar,
+    text: 'Барселона – моя третья большая любовь, после Вены и Крита. Это город, в который я каждый раз возвращаюсь с огромным удовольствием, всем рекомендую хоть раз там побывать и осмотреть ...',
+    gallery: [
+      { id: 1, src: First },
+      { id: 2, src: Second },
+      { id: 3, src: Third },
+      { id: 4, src: First },
+      { id: 5, src: Second },
+      { id: 6, src: Third },
+      { id: 7, src: First },
+      { id: 8, src: First },
+      { id: 9, src: Second },
+      { id: 10, src: Third },
+      { id: 11, src: Third },
+    ],
+    date: '',
+    comments: [
+      { id: 1, comment: 'jdjdj' },
+      { id: 2, comment: 'kjljjlj' },
+      { id: 3, comment: 'fjkfjk' },
+    ],
+  },
+
+  {
+    id: 2,
+    name: 'Elena Bulgakova',
+    avatar: Avatar,
+    text: 'Плюсы города: весь город одни плюсы! Минусы города: не видела. В наш марафон по Европе не вписалось 2 испанских города от усталости - решили остаток путешествия провести в Барселоне ...',
+    gallery: [
+      { id: 1, src: First },
+      { id: 2, src: Second },
+      { id: 3, src: Third },
+      { id: 4, src: First },
+      { id: 5, src: Second },
+      { id: 6, src: Third },
+      { id: 7, src: First },
+      { id: 8, src: First },
+      { id: 9, src: Second },
+      { id: 10, src: Third },
+      { id: 11, src: Third },
+    ],
+    date: '',
+    comments: [
+      { id: 1, comment: 'jdjdj' },
+      { id: 2, comment: 'kjljjlj' },
+      { id: 3, comment: 'fjkfjk' },
+    ],
+    likes: 9,
+  },
+
+  {
+    id: 3,
+    name: 'Наталия Полянская',
+    avatar: Avatar,
+    text: 'Барселона – моя третья большая любовь, после Вены и Крита. Это город, в который я каждый раз возвращаюсь с огромным удовольствием, всем рекомендую хоть раз там побывать и осмотреть ...',
+    gallery: [
+      { id: 1, src: First },
+      { id: 2, src: Second },
+      { id: 3, src: Third },
+      { id: 4, src: First },
+      { id: 5, src: Second },
+      { id: 6, src: Third },
+      { id: 7, src: First },
+      { id: 8, src: First },
+      { id: 9, src: Second },
+      { id: 10, src: Third },
+      { id: 11, src: Third },
+    ],
+    date: '',
+    comments: [
+      { id: 1, comment: 'jdjdj' },
+      { id: 2, comment: 'kjljjlj' },
+      { id: 3, comment: 'fjkfjk' },
+    ],
+  },
+  {
+    id: 4,
+    name: 'Наталия Полянская',
+    avatar: Avatar,
+    text: 'Барселона – моя третья большая любовь, после Вены и Крита. Это город, в который я каждый раз возвращаюсь с огромным удовольствием, всем рекомендую хоть раз там побывать и осмотреть ...',
+    gallery: [
+      { id: 1, src: First },
+      { id: 2, src: Second },
+      { id: 3, src: Third },
+      { id: 4, src: First },
+      { id: 5, src: Second },
+      { id: 6, src: Third },
+      { id: 7, src: First },
+      { id: 8, src: First },
+      { id: 9, src: Second },
+      { id: 10, src: Third },
+      { id: 11, src: Third },
+    ],
+    date: '',
+    comments: [
+      { id: 1, comment: 'jdjdj' },
+      { id: 2, comment: 'kjljjlj' },
+      { id: 3, comment: 'fjkfjk' },
+    ],
+  },
+];

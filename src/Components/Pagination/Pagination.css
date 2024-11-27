@@ -1,0 +1,19 @@
+.pagination__list {
+  list-style: none;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+
+.pagination .pagination__item-active {
+  background-color: rgba(255, 70, 65, 1);
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+}
+.pagination a {
+  width: 4px;
+  height: 4px;
+  background-color: rgba(33, 33, 33, 1);
+  border-radius: 100%;
+}
